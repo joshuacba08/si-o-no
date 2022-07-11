@@ -1,4 +1,4 @@
-# 03-fundamentos
+# fundamentos de Vue.js
 
 ## Project setup
 ```
